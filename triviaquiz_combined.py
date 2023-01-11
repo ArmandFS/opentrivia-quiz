@@ -1,3 +1,4 @@
+#This is the whole combined code if it were to be put into 1 file
 #import requests library for API connection
 import requests
 
